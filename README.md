@@ -47,8 +47,10 @@ The following clustering models were trained:
 
 The final model consisted of a Hierarchical Clustering on a UMAP (2D) embedding space. The images below show the silhouette plot of the final 10 clusters and the clusters on the embedding space (cluster #4 is the *Insider* cluster)
 
-<img src="/reports/figures/silhouette.png" width="500">
-<img src="/reports/figures/embedding.png" width="500">
+<p float="left">
+  <img src="/reports/figures/silhouette.png" width="49%" />
+  <img src="/reports/figures/embedding.png" width="49%" />
+</p>
 
 # 6. Business Results
 
